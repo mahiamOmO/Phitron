@@ -11,4 +11,4 @@ def sum(num1,num2):
     return result
 
 total = sum(44,39)
-print(total)
+print('total value',total)
